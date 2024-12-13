@@ -3,7 +3,7 @@ Sales and Finance Analytics Project->
 
 This project involved analyzing the sales data of Atliq Hardwares, a global computer hardware company, to uncover key insights and identify trends.
 
-Reports Generated:
+Reports Generated:-
 
  Customer Performance Report :  Analysis of individual customer performance.
  
@@ -24,7 +24,7 @@ Reports Generated:
  Top & Bottom Products : Ranked by quantity sold.
  
 
-Tools Used:
+Tools Used:-
 
 MS Excel : Main tool for data analysis and reporting.
 
@@ -36,7 +36,7 @@ PowerPivot : For enhanced data modeling.
 
 DAX Formulas : To build complex data models and calculations.
 
-Key Details:
+Key Details:-
 
 The fiscal year for Atliq Hardwares starts in September and ends in August.
 
